@@ -10,4 +10,4 @@ this programs contains the following features :
 -clear and reset features
 ##How to run:
 ```bash
-python calculator.py
+calculator.py
